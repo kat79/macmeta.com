@@ -1,0 +1,81 @@
+Body{
+
+Background-color: gray;
+background-image:Photo by A Fox on Unsplash
+Font-family: arial, Helvetica,san-serf
+
+A{
+
+Text-decoration:none
+
+Color:red;
+
+Container {
+
+Background-color:white;
+
+Width: 800px;
+
+Margin-left:auto;
+
+Margin-right:auto;
+
+ 
+
+Header {
+
+Background-color: blue:
+
+Color:white;
+
+Text-align:center;
+
+Padding:10px
+
+}
+
+ 
+
+Content {
+
+Padding:10px;
+
+Nav{
+
+Width:180pm;
+
+Float:left;
+
+}
+
+ 
+
+Nav ul {
+
+List-style-type:none
+
+Padding:0;
+
+Main{
+
+Width:600px
+
+Float:right;
+
+}
+
+.slected{
+
+Font-weight:bold:
+
+Footer{
+
+Clear:both;
+
+Padding:10px
+
+Background-color:gray
+
+Text:white
+
+Text-align:right
