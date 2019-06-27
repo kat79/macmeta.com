@@ -1,7 +1,7 @@
 Body{
 
 Background-color: gray;
-background-image:Photo by A Fox on Unsplash
+background-image: url(https://images.unsplash.com/photo-1445462474364-0955cb455316?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)(https://unsplash.com/photos/arGsFV-xIlQ);
 Font-family: arial, Helvetica,san-serf
 
 A{
@@ -20,7 +20,7 @@ Margin-left:auto;
 
 Margin-right:auto;
 
- 
+
 
 Header {
 
@@ -34,7 +34,7 @@ Padding:10px
 
 }
 
- 
+
 
 Content {
 
@@ -48,7 +48,7 @@ Float:left;
 
 }
 
- 
+
 
 Nav ul {
 
